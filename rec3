@@ -1,0 +1,246 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png",MIAVISION
+https://cdn4.hostlagarto.com:8081/static/miavisiontv/chunks.m3u8?qthaher
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/E6GI5R-_CxCv-Np6hkTWinG5c0rRKabaqBGwuRqq1BowJxsdnis9aoTL5k3WpiIdZA",PLAY TV
+https://cdn4.hostlagarto.com:8081/static/playtv/chunks.m3u8?qthaher
+
+#EXTINF:-1 channelId="-1"  tvg-logo="https://pbs.twimg.com/profile_images/1038809513665671169/bd1QvPBw_400x400.jpg",canal p&c
+http://66.240.236.26:1935/canalpycvivo/canalpycvivo/canalpycvivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQG1NSuaJK50vA/company-logo_200_200/0/1630669781027?e=2147483647&v=beta&t=uNK5ZUkC9VjwK3NFtASgIik-9Scfp-ncVhARtfYnC60",kering-INWONDER
+https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/logowuan.png" group-title="CULTURA", WUAN +
+https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleVID.co" tvg-name="Tele VID" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eg47wmv.jpg" tvg-url="" group-title="",Tele VID (720p)
+https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/4194f8aa-c90d-47b0-a154-0337c8660783/todo_crimen_750x500_v2_-_Kam_Jey.png" group-title="CRIMEN Y MISTERIO",Todo Crimen
+https://d861871e83924957b35eabcebb7df7eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoCrimen/playlist.m3u8?ads.wurl_channel=1054&ads.wurl_name=TodoCrimen&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=VeRRLspvSX7Z8bzwMLKr&ads.plex_id=61e86191307b907b95d63304&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0b7c360-994d-4a53-9172-a8b501f015db/todo_life_750x500_v2_-_Kam_Jey.png" group-title="ENTRETENIMIENTO",Todo LIFE
+https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoLIFE/playlist.m3u8?ads.wurl_channel=1060&ads.wurl_name=TodoLIFE&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=VeRRLspvSX7Z8bzwMLKr&ads.plex_id=61e86022307b907b95d63302&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF: -1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c875c2c1c16_dwe.png" group-title = "NOTICIAS", DW ESPAÑOL HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF: -1 group-title = "Internacionales" tvg-logo="https://i.postimg.cc/8C4x0B3G/euronews-old-euro-news-logo.png", Euronews | HD | mi
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQPBMr32egaSw12EVx693wELoyD-Swj3pbZCysP1A=s900-c-k-c0x00ffffff-no-rj", Euronews Español
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.mrf.io/statics/i/ps/cdn.statically.io/img/maduradas.com/f=auto/wp-content/uploads/2014/02/CNN-en-Espa%C3%B1ol-EN-VIVO-800x533.jpg?width=1200&enable=upscale", CNN En Español
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="NOTICIAS", TELESUR  25.4
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28M0g1BT/telesurven.png" grupo-title="TV Internacional", Telesur HD
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS", RT  25.5
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dprA1P7.png" group-title="",LTV (720p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://innerforte.com/wp-content/uploads/2019/10/megatv.png", Mega TV PR
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1200px-HispanTv_logo.svg.png" group-title="Internacional", HISPAN TV
+https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/864872382544084992/Jc5kc0FR_400x400.jpg" group-title="MUSICA", MI GENTE TV
+https://hvtrafico.ddns.net/migente720/migente720.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xI9nQu9.png",Mi Gente TV (720p) [Not 24/7]
+https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GeniosTVMoyobamba.pe" tvg-name="Genios TV (Moyobamba)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=272x10000:format=jpg/path/s86a1480785a470a0/image/iec1f514e68ac327e/version/1615874753/image.jpg" group-title="Local",Genios TV (Moyobamba) (720p) [Not 24/7]
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 tvg-id="KBOQuillabamba.pe" tvg-name="KBO Quillabamba" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="Local",KBO Quillabamba [Not 24/7]
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+
+#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-name="CR Television (Moyobamba)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" group-title="Local",CR Television (Moyobamba) (720p) [Not 24/7]
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-name="MEGA AMAZONIA" tvg-logo="https://play-lh.googleusercontent.com/Cp6jZxm65zil9JoRVTmbLNpDcC9wVSrWO4Wg7b1Gn7z573yw7NWovolOw04JmLK8kQ" group-title="BOLIVIA", MEGA AMAZONIA [Not 24/7]
+https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/mega-tv-envivo-1340.jpg", MEGATV CBBA
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvusucre.com/images/logo.png", TVU SUCRE (1080p)
+https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvWbYNjkjm_BTHrKRkjE2-jCrVCaSADAALZSQEnaGMjgC9iU1ykf1BecgRD-FrYw5RSA&usqp=CAU", Mega TV Yacuiba
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YWvqjy/CANAL-27-HD-BOLIVIA.jpg" group-title="BOLIVIA",Canal 27 Trinidad 
+https://master.tucableip.com/canal27/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.geoenciclopedia.com/wp-content/uploads/2018/11/bolivia_250.jpg" group-title="BOLIVIA",NetTV 29 Trinidad 
+https://master.tucableip.com/NetTv/index.m3u8
+
+#EXTINF:-29 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="NACIONALES", EMPRENDE TV [Not 24/7]
+https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/SsRJbs1j/galaxiatv.png" group-title="REPÚBLICA DOMINICANA", GALAXIA TV
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+
+#EXTINF:-1 tvg-id="903" tvg-name="Región Televisión Ñuble" tvg-logo="https://www.m3u.cl/logo/903_Region_Television_Nuble.png", Región Televisión Ñuble * | CL
+https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="NORTE", RTV CABLE JUJUY
+https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/VkfLzXN7/tvlatina.jpg" group-title="OTROS PAÍSES", TV LATINA
+https://master.tucableip.com/live/tvlatinamontero/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjlUzJnkRlsiLAGKcV8PRQru3s1j-MSUftsqVTbTQ=s900-c-k-c0x00ffffff-no-rj",TICAVISION HD 
+https://59ef525c24caa.streamlock.net/HBTV/HBTV/chunklist_w1522485524.m3u8
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" group-title="INTERNACIONAL", TELESUR COSTA RICA
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMFLFIL.png" group-title="Chile", Atacama TV | HD | Copiapó
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="CINE Y SERIES", PH TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online.png",CANAL 9 TV SUR HD
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+#EXTINF:-1 tvg-id="812" tvg-name="Suceso TV" tvg-logo="https://i1.sndcdn.com/avatars-nUVpyQKogZoE91UX-cNrzxQ-t240x240.jpg", Suceso TV  | PY
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="MasterTVTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="Local",Master TV (Tarapoto) [Not 24/7]
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Millenium49TVPucallpa.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://milleniumtv.pe/wp-content/uploads/2021/08/mileee-2-150x150.png" group-title="Local",Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-vallevision-canal-10-9607.jpg" group-title="REPUBLICA  D",VALLEVISION TV /HD/
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/3x1DTfTH/hmtv-republica-dominicana-en-vivo.png",HMTV
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-LhwExEzTwdA/XbyVy_B4yMI/AAAAAAAAomg/uVHe-pJhc4sF5-aRULuAM_Tghb04V1KyACLcBGAsYHQ/s200/RocaVision%2B%2528RD%2529.png" group-title=".RD",RocaVision (RD)
+http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg",TVS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+
+#EXTINF:-2021 tvg-id="122" tvg-name="Canal Visión Dorada" tvg-logo="https://www.m3u.cl/logo/122_Canal_Vision_Dorada.jpg", Canal Visión Dorada  | CO
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkEOJj3.png" group-title="Chile", Exprezion TV | HD | Los Álamos
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png", group-title="PARAGUAY", 22- SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:-1 tvg-id="710" tvg-name="Amé" tvg-logo="https://www.m3u.cl/logo/710_Ame.jpg", Amé  | DO
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuntaCanaTV.do" tvg-country="DO" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1_400x400.jpg" group-title="Dominican Republic",Punta Cana TV (720p)
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6_200x200.jpg" twitter="microvision10" group-title="CINE Y SERIES",Microvision
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="GDMTELEVISION.do" tvg-name="GDM TELEVISION" tvg-country="DO" tvg-language="" tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="REPUBLICA DOMINICANA",GDM TELEVISION
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-shift="-4" tvg-id="(no tvg-id)" tvg-name="Boreal Televisión" tvg-logo="https://i.imgur.com/4v86KS8.jpg" group-title="Rep. Dominicana",Boreal Televisión
+https://eu1.servers10.com:8081/8110/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aULEJYkrYdan2E-qVYleYZ33ihMm1wTpg-xKkq-g6wsOqthxLXSlIdp746zXNw5APAo",mega tv cb
+https://vdo1.streamgato.us:3711/live/megatvlive.m3u8?qthaher
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkNkF5-as01b3ZDFnClLZixHUkDJlzH_yjC40MEWpPMShU2VZ-",Latina TV Internacional
+https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w75759857.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-VYTj4zZWS4izprdriku6DC9tCBMZ7sd2V4H0LPesvU6JXV4McVTmhcGzsd1WLnV0ip6",Crom TV
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8?qthaher
+
+#EXTINF:-1 tvg-id="Telenord12.do" tvg-name="Telenord 12" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iE1xhA5.png" tvg-url="" group-title="",Telenord 12 (720p)
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg",Telenord Canal 10 (1080p)
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord8.do" tvg-name="Telenord 8" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" tvg-url="" group-title="",Telenord 8 (1080p)
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES 3" tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png",LA CALETA
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrUkIQbIQpW2gT_Z9s6jVlyMrPxYdRZqbI7OTWWfaX7dPGwu_chV-47OEy1R58m4SbP4&usqp=CAU",Oro TV (Mexico) RETRO
+https://veranda-orotv-1-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="CINE Y SERIES 2", NUESTRA VISION
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/850yFZR.png" group-title="Internacionales", Nuestra Visión | HD | Estados Unidos
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
+
+#EXTINF:-1 tvg-id="609059dc63be6e0007b4eca6" tvg-chno="85" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-chno="104" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV Series Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" tvg-chno="81" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Películas",Pluto TV  Nuestro Cine
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://i2.paste.pics/379d8ce5893c94a972cd1ec9f5a13149.png", Tele Clasicos | CR
+https://tvdatta.com:3574/hybrid/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ONPUaED_H_yHTXNAPwkr1aLyetDFGO0llNytUZzJUGjQERvDL-ZeJFdmp7y3DaOzw1M=s150-rw" group-title="LOCALES 4", TELECINCO TRELEW SD
+https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 tvg-id="Canald.es" tvg-name="Canal d" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online-324x160.png" group-title="Local",Canal d
+https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="INTERNACIONAL", 101 TV Malaga
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQZ3wRJmfM1UQC6A2kKsjx3aOPUax-MYjbEFVR4zA=s900-c-k-c0x00ffffff-no-rj" group-title="ESPANA",Distrito TV (España)
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YRtVL6c.png" group-title="España", TV Ferrol | SD | Ferrol
+https://directo.tvferrol.es/tv.m3u8
+
+#EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://www.m3u.cl/logo/987_Emocion_TV.png", Emocion TV * | CL 
+https://v2.tustreaming.cl/emocion/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title="CINE Y SERIES", SARAPIQUÍ TV
+http://tiquiciatv.com:1935/stv/web/chunklist_w915494086.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes", STV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png", Mi TV Televisión Clásica | US
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://www.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 | CL 
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL 
+#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/r4btaBc.png",Canal 74 | HD | Placilla Retro
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://www.m3u.cl/logo/337_Buin_Somos_Todos.png", Buin Somos Todos | CL 
+https://bst.buin.cl/0.m3u8?PlaylistM3UCL 
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/qqMKPPvk/telesistema.png" group-title="COSTA RICA", TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
+
+#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://i.imgur.com/iO6qmgY.png", Telered | CR
+https://srv.panelcast.net/telered/telered/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iO6qmgY.png" group-title="COSTA RICA",Telered Television Alter
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm-Y-cQ-iP2E8T-zh_BrYQxy0QsuLAajXi8w&usqp=CAU" group-title="CINE Y SERIES", RETRO PLAY
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="LOCALES 3", ZONDA TV 35.1 - SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png" group-title="REPÚBLICA DOMINICANA", CANAL 6 DAJABÓN
+https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9pOIpLELXaty_8uwBgAs2qb7QPa21SkBSdMWXlkU8M1No0dHehFwrAegjzL_9ZrQlu1g&usqp=CAU" group-title="INTERNACIONAL", BHTV PERU
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="INTERNACIONAL", BHTV PERU Alter
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i1.wp.com/radioplus1035.com.ar/wp/wp-content/uploads/2021/05/cropped-133737876_867518750733014_8075470442578818509_o-1.jpg?w=512", PLUS SD - CHACO 
+http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w1287862831.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="CINE Y SERIES", ORBIT TV SD
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="CINE Y SERIES", READY
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png",WOW TV HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
